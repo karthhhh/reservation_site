@@ -1,0 +1,26 @@
+{
+  "name": "reservations",
+  "version": "1.0.0",
+  "description": "Reservation website to explore full implementation of the full stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtKeller/reservation_site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtKeller/reservation_site/issues"
+  },
+  "homepage": "https://github.com/mtKeller/reservation_site#readme"
+}
